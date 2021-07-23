@@ -302,6 +302,7 @@ case2
 #sns .wrapper {
   display: flex;
   justify-content: space-between;
+  padding: 0 250px;
 }
 #sns .sub-title {
   margin-bottom: 30px;
