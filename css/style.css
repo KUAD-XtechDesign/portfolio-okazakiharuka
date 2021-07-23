@@ -295,4 +295,17 @@ case1
 case2
 ======================================================*/
 
- 
+#sns {
+  background: #FAF7F0;
+  padding: 4% 0;
+}
+#sns .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+#sns .sub-title {
+  margin-bottom: 30px;
+}
+.sns-bos {
+  width: 30%;
+}
